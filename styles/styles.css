@@ -77,5 +77,6 @@ color: #57B3A9;
 
 .gitLink {
     color: #57B3A9;
-        margin: 5px 50px 0px 50px;
+    text-align: center;
+        margin: 0px auto;
 }
